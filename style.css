@@ -59,6 +59,9 @@ border-radius:  10px;;
 
 @media only screen and(max-width: 500px) {
  
+  body{
+    padding: 20px;
+  }
 .text {
     max-width: 90%; 
 }
