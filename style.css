@@ -60,15 +60,15 @@ border-radius:  10px;;
 @media only screen and(max-width: 768px) {
  
 .text {
-    max-width: 90%; /* Ajusta a largura do elemento .text */
+    max-width: 90%; 
 }
 
 #slc-topicos {
-    width: 90%; /* Ajusta a largura do elemento #slc-topicos */
+    width: 90%; 
 }
 
 #txt-desc {
-    max-width: 90%; /* Ajusta a largura do elemento #txt-desc */
+    max-width: 90%; 
 }
 
 }
