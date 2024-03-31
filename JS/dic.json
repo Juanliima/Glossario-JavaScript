@@ -48,5 +48,21 @@
         "id": 10,
         "titulo": "NaN (Not-a-Number) ",
         "descricao": "Um valor especial em JavaScript que representa um resultado que não é um número válido."
+    },
+    {
+        "id": 11,
+        "titulo": "Metodos de array",
+        "descricao": " Funções incorporadas em objetos de array que permitem manipular e percorrer seus elementos, como push(), pop(), splice(), etc."
+    },
+    {
+        "id": 12,
+        "titulo": "AJAX (Asynchronous JavaScript and XML)",
+        "descricao": " Técnica para fazer requisições assíncronas ao servidor, permitindo atualizações dinâmicas de conteúdo sem recarregar a página inteira."
+    },
+    {
+        "id": 13,
+        "titulo": "Funções",
+        "descricao": " Blocos de código que executam uma tarefa específica quando chamados, muitas vezes aceitando parâmetros e retornando um valor."
     }
+    
 ]
