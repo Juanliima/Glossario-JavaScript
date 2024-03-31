@@ -57,12 +57,21 @@ border-radius:  10px;;
 }
 
 
-@media (max-width: 240px) {
-  #txt-desc{
-      max-width: 100%; 
-  }
+@media only screen and(max-width: 768px) {
+ 
+.text {
+    max-width: 90%; /* Ajusta a largura do elemento .text */
 }
 
+#slc-topicos {
+    width: 90%; /* Ajusta a largura do elemento #slc-topicos */
+}
+
+#txt-desc {
+    max-width: 90%; /* Ajusta a largura do elemento #txt-desc */
+}
+
+}
 
 
 .rodape {
