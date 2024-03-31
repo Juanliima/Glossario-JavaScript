@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "titulo": "O que é JavaScript",
+        "descricao": "JavaScript é uma linguagem de programação que permite implementar funcionalidades mais complexas em páginas web. Desde o momento em que a página web é exibida no navegador, JavaScript é usado para tornar a página mais responsiva, interativa e dinâmica."
+    },
+    {
+        "id": 2,
+        "titulo": "Variáveis",
+        "descricao": "Locais onde você pode armazenar dados. Em JavaScript, você pode declarar variáveis usando palavras-chave como var, let e const."
+    },
+    {
+        "id": 3,
+        "titulo": "tipos de Dados",
+        "descricao": "JavaScript tem tipos de dados primitivos como números, strings, booleanos, null e undefined, além de tipos de dados compostos como arrays e objetos"
+    },
+    {
+        "id": 4,
+        "titulo": "Loops",
+        "descricao": "Estruturas de controle que permitem executar um bloco de código várias vezes."
+    },
+    {
+        "id": 5,
+        "titulo": "Condições",
+        "descricao": " Estruturas de controle como if, else if e else que permitem executar diferentes blocos de código com base em condições específicas."
+    },
+    {
+        "id": 6,
+        "titulo": "DOM (Document Object Model): ",
+        "descricao": "Representação em forma de árvore da estrutura de um documento HTML, que JavaScript pode manipular para interagir dinamicamente com a página web."
+    },
+    {
+        "id": 7,
+        "titulo": "Operadores lógicos",
+        "descricao": "Operadores como && (E lógico), || (OU lógico) e ! (NÃO lógico) usados para avaliar expressões booleanas."
+    },
+    {
+        "id": 8,
+        "titulo": "Hoisting: ",
+        "descricao": "Comportamento em JavaScript onde declarações de variáveis e funções são movidas para o topo do escopo durante a fase de compilação"
+    },
+    {
+        "id": 9,
+        "titulo": "Callback ",
+        "descricao": "Uma função passada como argumento para outra função, que será chamada quando uma determinada operação for concluída"
+    },
+    {
+        "id": 10,
+        "titulo": "NaN (Not-a-Number) ",
+        "descricao": "Um valor especial em JavaScript que representa um resultado que não é um número válido."
+    }
+]

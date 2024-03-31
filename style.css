@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(0, 0, 0);
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    margin: auto;
+
+    font-family: "Share Tech Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+
+  @keyframes blink-caret {
+    from, to {
+      border-color: transparent;
+    }
+    50% {
+      border-color: rgba(0, 0, 0, 0.11);
+    }
+  }
+
+.text{
+  overflow: hidden; 
+  border-right: .15em solid rgb(255, 254, 254); 
+  white-space: nowrap; 
+  margin: 0 auto; 
+  animation: typing 15s steps(40, end)forwards , blink-caret 0.75s step-end 2s infinite; 
+}
+
+#slc-topicos{
+    width: 300px;
+    height: 23px;
+    font-size: 1em;
+    
+}
+
+#txt-desc{
+resize: none;
+outline: none;
+width: 450px;
+height: 100px;
+font-size: 1.3em;
+}
+
+.rodape {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
